@@ -1,34 +1,32 @@
-Omniknight 0.09825 / 0.08005 = 1.2274
-Abaddon 0.0416 / 0.035225 = 1.181
-Necrophos 0.11555 / 0.097975 = 1.1794
-Zeus 0.0686 / 0.05865 = 1.1697
-Ogre Magi 0.11495 / 0.099325 = 1.1573
-Elder Titan 0.01365 / 0.011875 = 1.1495
-Warlock 0.02145 / 0.018775 = 1.1425
-Undying 0.0255 / 0.02255 = 1.1308
-Skeleton King 0.06885 / 0.061525 = 1.1191
-Medusa 0.02815 / 0.02535 = 1.1105
+Omniknight       61.3679%
+Abaddon          59.0490%
+Necrophos        58.9691%
+Zeus             58.4825%
+Ogre Magi        57.8656%
+Elder Titan      57.4737%
+Warlock          57.1238%
+Undying          56.5410%
+Skeleton King    55.9529%
+Medusa           55.5227%
 
-Luna, Clockwerk 0.0013 / 0.000825 = 1.5758
-Ogre Magi, Undying 0.00285 / 0.001825 = 1.5616
-Luna, Abaddon 0.00115 / 0.00075 = 1.5333
-Vengeful Spirit, Medusa 0.0021 / 0.001375 = 1.5273
-Tiny, Abaddon 0.0011 / 0.000725 = 1.5172
-Omniknight, Warlock 0.0011 / 0.000725 = 1.5172
-Bane, Spectre 0.0011 / 0.000725 = 1.5172
-Riki, Elder Titan 0.00125 / 0.000825 = 1.5152
-Omniknight, Zeus 0.0054 / 0.003575 = 1.5105
-Elder Titan, Spirit Breaker 0.00105 / 0.0007 = 1.5
+Luna, Clockwerk                   78.7879%
+Ogre Magi, Undying                78.0822%
+Luna, Abaddon                     76.6667%
+Vengeful Spirit, Medusa           76.3636%
+Tiny, Abaddon                     75.8621%
+Omniknight, Warlock               75.8621%
+Bane, Spectre                     75.8621%
+Riki, Elder Titan                 75.7576%
+Omniknight, Zeus                  75.5245%
+Elder Titan, Spirit Breaker       75.0000%
 
-Ogre Magi, Omniknight, Necrophos 0.001 / 0.0006 = 1.6667
-Disruptor, Phantom Assassin, Earthshaker 0.00125 / 0.00075 = 1.6667
-Enigma, Axe, Nature's Prophet 0.001 / 0.000625 = 1.6
-Faceless Void, Necrophos, Zeus 0.001 / 0.000625 = 1.6
-Shadow Fiend, Phantom Assassin, Drow Ranger 0.0012 / 0.00075 = 1.6
-Juggernaut, Ogre Magi, Necrophos 0.0012 / 0.00075 = 1.6
-Faceless Void, Phantom Assassin, Zeus 0.00145 / 0.000925 = 1.5676
-Silencer, Phantom Assassin, Earthshaker 0.00265 / 0.0017 = 1.5588
-Faceless Void, Sniper, Bloodseeker 0.00105 / 0.000675 = 1.5556
-Omniknight, Phantom Assassin, Medusa 0.00105 / 0.000675 = 1.5556
-
-
+Ogre Magi, Omniknight, Necrophos                   83.3333%
+Disruptor, Phantom Assassin, Earthshaker           83.3333%
+Enigma, Axe, Nature's Prophet                      80.0000%
+Shadow Fiend, Phantom Assassin, Drow Ranger        80.0000%
+Juggernaut, Ogre Magi, Necrophos                   80.0000%
+Faceless Void, Necrophos, Zeus                     80.0000%
+Faceless Void, Phantom Assassin, Zeus              78.3784%
+Silencer, Phantom Assassin, Earthshaker            77.9412%
+Faceless Void, Sniper, Bloodseeker                 77.7778%
+Omniknight, Phantom Assassin, Medusa               77.7778%
