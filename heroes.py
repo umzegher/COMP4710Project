@@ -106,5 +106,6 @@ HEROES = {
     106: u'Ember Spirit',
     107: u'Earth Spirit',
     109: u'Terrorblade',
-    110: u'Phoenix'
+    110: u'Phoenix',
+    111: u'Oracle'
 }
